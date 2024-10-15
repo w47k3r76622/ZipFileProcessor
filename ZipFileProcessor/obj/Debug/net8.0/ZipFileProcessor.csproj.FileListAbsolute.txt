@@ -1,0 +1,14 @@
+C:\Users\Weblancer User\ZipFileProcessor\bin\Debug\net8.0\ZipFileProcessor.exe
+C:\Users\Weblancer User\ZipFileProcessor\bin\Debug\net8.0\ZipFileProcessor.deps.json
+C:\Users\Weblancer User\ZipFileProcessor\bin\Debug\net8.0\ZipFileProcessor.runtimeconfig.json
+C:\Users\Weblancer User\ZipFileProcessor\bin\Debug\net8.0\ZipFileProcessor.dll
+C:\Users\Weblancer User\ZipFileProcessor\bin\Debug\net8.0\ZipFileProcessor.pdb
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.AssemblyInfoInputs.cache
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.AssemblyInfo.cs
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.dll
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\refint\ZipFileProcessor.dll
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.pdb
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ZipFileProcessor.genruntimeconfig.cache
+C:\Users\Weblancer User\ZipFileProcessor\obj\Debug\net8.0\ref\ZipFileProcessor.dll
